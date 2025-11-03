@@ -1,24 +1,29 @@
-# nothing sus so farr
+# Lunar Launcher API Info
 
-apis lunar launcher hits 
+## APIs Hit by Lunar Launcher
 
---
+* **Status API**
+  `https://api.backend-services-lunar.xyz`
+  Response example:
 
-https://api.backend-services-lunar.xyz which sends {
-  "status": "ok",
-  "uptime": 53599.157617746
-}
+  ```json
+  {
+    "status": "ok",
+    "uptime": 53599.157617746
+  }
+  ```
 
---
+* **Invalid Endpoint**
+  `https://api.backend-services-lunar.xyz/h` → `404 Not Found`
 
-and
-https://api.backend-services-lunar.xyz/h = 404
+> ⚠️ Reminder: The main site is actually [`https://backend-services-lunar.xyz`](https://backend-services-lunar.xyz)
 
 ---
 
+Credits to **seeyun** for Lunar Launcher (though they didn’t do much) + **andreu** for gameserver!
 
-i forgot that https://backend-services-lunar.xyz is main site 
+**Fuck Lunar – they scammed Andreu.**
 
+**Current Status:**
 
-
-credits to  seeyun for lunar launcher (as they didn't do shit)
+**it goes to anime wtf??**
