@@ -27,3 +27,7 @@ Credits to **seeyun** for Lunar Launcher (though they didn’t do much) + **andr
 **Current Status:**
 
 **it goes to anime wtf??**
+
+
+**Launcher pic** 
+![Lunar Launcher Image](https://github.com/LunarExposed/Launcher/blob/main/image%20\(1\).webp?raw=true)
